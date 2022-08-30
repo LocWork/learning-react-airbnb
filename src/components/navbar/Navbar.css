@@ -1,0 +1,12 @@
+.NavbarContainer {
+  width: 100%;
+  height: 70px;
+  background-color: #ffffff;
+  box-shadow: 0px 1px 20px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+}
+
+.logo-image {
+  margin-left: 80%;
+}

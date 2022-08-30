@@ -1,0 +1,56 @@
+.CardContainer {
+  width: 270px;
+  height: 300px;
+  margin: 2%;
+}
+
+.top-container {
+  position: relative;
+  font-family: 'Poppins', sans-serif;
+}
+
+.status {
+  position: absolute;
+  top: 1px;
+  left: 10px;
+  background-color: #ffffff;
+  color: #222222;
+  text-align: center;
+  width: 40%;
+  margin-top: 10px;
+  border-radius: 5%;
+}
+
+.card--star {
+  height: 14px;
+}
+
+.bottom-container {
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+}
+
+.rating-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.gray {
+  color: #918e9b;
+}
+
+.bottom-container > p {
+  width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.top-container > img {
+  width: 270px;
+  height: 300px;
+}
